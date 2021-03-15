@@ -12,6 +12,12 @@ Install Webdriver.io via the following command.
 npm install @wdio/cli
 ```
 
+Install Chai via the following command.
+
+```bash
+npm install chai
+```
+
 This project should already include wdio.conf.js config that should use the following configurations:
  - chromedriver
  - using local machine

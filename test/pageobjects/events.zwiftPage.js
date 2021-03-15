@@ -6,9 +6,6 @@ const ZwiftPage = require('./zwiftPage');
  */
 class ZwiftEventsPage extends ZwiftPage {
 
-    // var currentEventsObj = $$('div.header-title');
-    // const currentEvents = [];
-
     get sideBarNavBtn(){
         return $('button._1y_LNCV6bN8pLbpzSLHKCd');
     }
